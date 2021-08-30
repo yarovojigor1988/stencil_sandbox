@@ -213,7 +213,7 @@
     "storeName-color": "#333333",
     "body-bg": "#ffffff",
     "header-backgroundColor": "#ffffff",
-    "footer-backgroundColor": "#66ccff",
+    "footer-backgroundColor": "#ffffff",
     "navUser-color": "#333333",
     "navUser-color-hover": "#757575",
     "navUser-dropdown-backgroundColor": "#ffffff",
@@ -618,13 +618,13 @@
         "description": "Super new variant",
         "demo_url": "https://cornerstone-bold-demo.mybigcommerce.com",
         "optimized_for": [
-          "123",
-          "Me",
-          "Only me",
-          "no one more"
+          "multi_purpose",
+          "mobile_tablet_desktop",
+          "sales_discounts",
+          "large_catalog"
         ],
         "industries": [
-          "cool stuff"
+          "food_beverage"
         ]
       },
       "settings": {

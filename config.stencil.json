@@ -3,7 +3,9 @@
     "brand": {},
     "category": {},
     "page": {},
-    "product": {}
+    "product": {
+      "custom-product.html":"/custom-product/"
+    }
   },
   "normalStoreUrl": "https://ihor-yaroviy-sandbox.mybigcommerce.com/",
   "port": 3000
